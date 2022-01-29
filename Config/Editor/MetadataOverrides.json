@@ -1,0 +1,21 @@
+{
+	"Metadata":
+	{
+		"Classes":
+		{
+			"StaticMeshComponent":
+			{
+				"Fields":
+				{
+					"StaticMesh":
+					{
+						"Bools":
+						{
+							"IsFavorite": false
+						}
+					}
+				}
+			}
+		}
+	}
+}
